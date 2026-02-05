@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MJelte
 - 👀 I’m interested in Stuff with radio and radio soft/hardware
 - 🌱 I’m currently learning how to make a PWA app for my radio station
-- 📫 How to reach me you can reach me at discord @jeltem or via a mail to mail@jeltem.nl
+- 📫 How to reach me you can reach me at discord @jeltem
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love radio stuff
 
